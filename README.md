@@ -8,10 +8,8 @@
 </p>
 
 #
-###### App Screens
+###### StartUpPage
   ![alt text](/github_images/StartUpPage.PNG)
-  ![alt text](/github_images/LampModesPage.PNG)
-  ![alt text](/github_images/SecretPage.PNG)
   
 #
 ###### HomePage
