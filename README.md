@@ -8,18 +8,20 @@
 </p>
 
 #
-###### StartUpPage
+###### App Screens
   ![alt text](/github_images/StartUpPage.PNG)
+  ![alt text](/github_images/LampModesPage.PNG)
+  ![alt text](/github_images/SecretPage.PNG)
   
 #
 ###### HomePage
-  ![alt text](/github_images/HomePage.PNG)
+<!--   ![alt text](/github_images/HomePage.PNG) -->
   
 #
 ###### SensorsPage
-  ![alt text](/github_images/SensorsPage.PNG)
+<!--   ![alt text](/github_images/SensorsPage.PNG) -->
   
 #
 ###### MotorPage
-  ![alt text](/github_images/MotorPage.PNG)
+<!--   ![alt text](/github_images/MotorPage.PNG) -->
   
