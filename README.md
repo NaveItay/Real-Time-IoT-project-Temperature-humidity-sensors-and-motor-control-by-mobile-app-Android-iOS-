@@ -15,13 +15,13 @@
   
 #
 ###### HomePage
-<!--   ![alt text](/github_images/HomePage.PNG) -->
+  ![alt text](/github_images/HomePage.PNG)
   
 #
 ###### SensorsPage
-<!--   ![alt text](/github_images/SensorsPage.PNG) -->
+  ![alt text](/github_images/SensorsPage.PNG)
   
 #
 ###### MotorPage
-<!--   ![alt text](/github_images/MotorPage.PNG) -->
+  ![alt text](/github_images/MotorPage.PNG)
   
